@@ -61,7 +61,7 @@ The code is implemented based on [pysot](https://github.com/STVIR/pysot). We wou
 
 ## 4. Cite
 If you use ADSiamRPN in your work please cite our papers:
-> ```
+```
 	@article{wang2023ad,
 	  title={AD-SiamRPN: Anti-Deformation Object Tracking via an Improved Siamese Region Proposal Network on Hyperspectral Videos},
 	  author={Wang, Shiqing and Qian, Kun and Shen, Jianlu and Ma, Hongyu and Chen, Peng},
@@ -74,7 +74,7 @@ If you use ADSiamRPN in your work please cite our papers:
 	}
 ```
 
-> ```
+```
    @inproceedings{wang2022bs,
      title={BS-SiamRPN: Hyperspectral video tracking based on band selection and the Siamese region proposal network},
      author={Wang, ShiQing and Qian, Kun and Chen, Peng},
