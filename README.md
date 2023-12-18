@@ -55,7 +55,6 @@ Download the test result:
 [hot2022_result](https://pan.baidu.com/s/18iQoqRzOBa7qxO1AZiVbIw?pwd=4taf) code: 4taf
 
 
-
 ## 3. Acknowledgement
 The code is implemented based on [pysot](https://github.com/STVIR/pysot). We would like to express our sincere thanks to the contributors.
 
@@ -73,7 +72,7 @@ If you use ADSiamRPN in your work please cite our papers:
 	  year={2023},
 	  publisher={MDPI}
 	}
-	```
+```
 
 > ```
    @inproceedings{wang2022bs,
@@ -84,4 +83,4 @@ If you use ADSiamRPN in your work please cite our papers:
   year={2022},
      organization={IEEE}
    }
-   ```
+```
