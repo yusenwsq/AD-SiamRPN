@@ -43,7 +43,8 @@ pip install -r requirements.txt
         <td>84.5</td>
         <td>83.4</td>
         <td>83.1</td>
-     </tr>    
+     </tr>
+</table>    
 ```
 Download the pretrained model:  
 [model](https://pan.baidu.com/s/1I3Tgyp1PA9Y3YSZlyHwJJg?pwd=bm1e) code: bm1e  
